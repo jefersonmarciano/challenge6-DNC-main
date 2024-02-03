@@ -17,7 +17,7 @@ Projeto consiste em seu desenvolvimento como resolução do desafio 6 da Formaç
 
 ##### Clone o repositório:
 ```sh
-$ git clone git@github.com:osmaclean/challenge6-DNC.git
+$ git clone git@github.com:jefersonmarciano/challenge6-DNC.git
 ```
 
 ##### Acesse a pasta criada:
@@ -394,13 +394,13 @@ $ npm run dev
 
 ### UML
 
-![image](https://github.com/osmaclean/challenge6-DNC/assets/115199808/8f69bb31-3b5d-48b5-8578-9a964c46c695)
+![image](https://github.com/jefersonmarciano/challenge6-DNC/assets/115199808/8f69bb31-3b5d-48b5-8578-9a964c46c695)
 
 ---
 
 ### Demonstração
 
-![UML](https://github.com/osmaclean/challenge6-DNC/blob/main/public/demonstracao.gif)
+![UML](https://github.com/jefersonmarciano/challenge6-DNC/blob/main/public/demonstracao.gif)
 
 #### Programa utilizado para teste:
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
